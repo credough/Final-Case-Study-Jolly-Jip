@@ -14,7 +14,7 @@ This project is a **C-based financial information system** for a fictional resta
 ### My Contribution
 I worked mostly on:
 - Creating and organizing the **functions**
-- Implementing **file handling** (saving sales data, updating menu)
+- Implementing file handling (saving sales data, updating menu)
 - Formatting and refining the flow of the program
 - **Presented and explained** the whole project to our professor, *Ms. Rosita Canlas*
 
