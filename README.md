@@ -82,3 +82,8 @@ The system simulates a basic restaurant billing and file maintenance tool. It fe
 Instructor, BSIT 1-1  
 Polytechnic University of the Philippines
 
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="80"/>
+
+
